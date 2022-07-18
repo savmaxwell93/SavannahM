@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my portfolio website](https://portfolio-project-chi.vercel.app/)
 
-- 🌱 I’m currently learning **Vue, Python, Postgresql**
+- 🌱 I’m currently learning **Figma**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-project-chi.vercel.app/](https://portfolio-project-chi.vercel.app/)
 
