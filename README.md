@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Savannah</h1>
-<h3 align="center">A passionate frontend developer from Boise, Idaho</h3>
+<h3 align="center">A passionate environment artist and frontend developer from Boise, Idaho</h3>
 
 - 🔭 I’m currently working on [my portfolio website](https://portfolio-project-chi.vercel.app/)
 
-- 🌱 I’m currently learning **Figma**
+- 🌱 I’m currently learning **Blender**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-project-chi.vercel.app/](https://portfolio-project-chi.vercel.app/)
 
-- 💬 Ask me about **React, Redux, CSS, JavaScript**
+- 💬 Ask me about **React, Redux, CSS, JavaScript, Figma**
 
 - 📫 How to reach me **savmaxwell93@gmail.coom**
 
